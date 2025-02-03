@@ -1,0 +1,2 @@
+# crewai
+AI Automation Agent
